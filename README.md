@@ -1,9 +1,9 @@
 # 👥 Team Members
 
-* **[Vivek Gautam]** - SID: [202418053]
-* **[Bhargav Pachouli]** - SID: [202418009]
-* **[Chandan Pandit]** - SID: [202418043]
-* **[Nikhil Kumar Sharma]** - SID: [202418039]
+* **Vivek Gautam** - SID: [202418053]
+* **Bhargav Pachouli** - SID: [202418009]
+* **Chandan Pandit** - SID: [202418043]
+* **Nikhil Kumar Sharma** - SID: [202418039]
 
 ---
 
