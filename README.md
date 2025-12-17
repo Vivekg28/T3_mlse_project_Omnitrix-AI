@@ -33,8 +33,3 @@ The **Omnitrix RAG** is a dual-modality search engine designed to analyze and re
 1.  **Python 3.8+** installed.
 2.  **Ollama** installed and running.
     * Pull the vision model: `ollama pull moondream`
-
-### Step 1: Clone the Repository
-```bash
-git clone [https://github.com/yourusername/ben10-rag.git](https://github.com/yourusername/ben10-rag.git)
-cd ben10-rag
